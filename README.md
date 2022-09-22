@@ -7,7 +7,7 @@
 
 ### Author Information 
 
-- [Abhiram Sarja][https://www.linkedin.com/in/asarja/] 
+- [Abhiram Sarja](https://www.linkedin.com/in/asarja/) 
 - sarja.a@northeastern.edu
 - 002116883 (NUID)
 
